@@ -1,15 +1,18 @@
-# building-materials-sales-analysis
-End-to-end Data Analytics project using Python and Power BI.
-
 # 📊 Building Materials Sales Analysis
 
-An end-to-end Data Analytics project using **Python** and **Power BI** to analyze building materials sales data and generate business insights through data visualization and dashboard development.
+An end-to-end Data Analytics project using **Python** and **Power BI**.
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](images/dashboard.png)
 
 ---
 
 ## 📌 Project Overview
 
-This project focuses on cleaning, analyzing, and visualizing sales data from a building materials store. The objective is to identify sales trends, top-performing brands, store performance, and customer purchasing behavior.
+This project analyzes building materials sales data using Python and Power BI to uncover business insights, visualize sales performance, and support data-driven decision-making.
 
 ---
 
